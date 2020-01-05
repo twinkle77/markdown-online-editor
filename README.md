@@ -54,7 +54,7 @@
 - [x] ✨ 注入 [RevealJs](https://revealjs.com/#/)，增设对 `PPT` 预览支持；
 - [x] 👏 支持检查并格式化 Markdown 语法，使其专业；
 - [x] 🦑 支持五线谱、及[部分站点、视频、音频解析](https://github.com/b3log/vditor/issues/117?utm_source=hacpai.com#issuecomment-526986052)；
-- [ ] 🚧 增加对**所见即所得**编辑模式的支持(开发中)；
+- [x] 🚧 增加对**所见即所得**编辑模式的支持(待优化)；
 
 ## 如何使用
 
